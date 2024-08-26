@@ -26,7 +26,7 @@ layout: base
             </div>
         </div>
         <div class="row">
-            {% assign sorted = site.data.events | sort: 'date','last' %}
+            {% assign sorted = site.data.events | sort: 'date','first' %}
             {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">
                     <a {% unless event.url == null %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">

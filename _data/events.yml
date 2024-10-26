@@ -320,11 +320,11 @@
 
 - name: HackUPC 2023
   line: BarcelonaTech's Student Hackathon. 600 hackers. 36h. May 12-14.
-  image-url: https://hackupc.com/ogimage.png
+  image-url: https://2023.hackupc.com/ogimage.png
   date: 2023-05-12 6:00 PM 
   end-date: 2023-05-14 4:30 PM 
   location: Campus Nord
-  url: https://hackupc.com
+  url: https://2023.hackupc.com
 
 - name: HackNight Episode III
   line: Spend a night hacking in good company.
@@ -333,7 +333,6 @@
   end-date: 2023-09-30 6:00 AM
   location: Aula Estudi
   url: https://hacknights.dev/
-
 
 - name: HackNight Episode IV
   line: Spend a night hacking in good company.
@@ -358,3 +357,12 @@
   end-date: 2024-02-24 6:00 AM
   location: Aula Estudi
   url: https://hacknights.dev/
+
+- name: HackUPC 2024
+  line: BarcelonaTech's Student Hackathon. 750 hackers. 36h. May 3-5.
+  image-url: https://hackupc.com/ogimage.png
+  date: 2024-05-03 6:00 PM 
+  end-date: 2024-05-05 4:30 PM 
+  location: Campus Nord
+  url: https://hackupc.com
+
